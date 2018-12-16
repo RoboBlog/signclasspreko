@@ -1,0 +1,2 @@
+model_checkpoint_path: "VGGNet_29042017"
+all_model_checkpoint_paths: "VGGNet_29042017"
